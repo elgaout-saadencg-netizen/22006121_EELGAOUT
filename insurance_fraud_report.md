@@ -1,3 +1,6 @@
+Nom: ELGAOUT SAAD
+![Uploading PHOTO.png…]()
+
 # Rapport Académique : Détection de Fraude dans les Réclamations d'Assurance Automobile
 
 ---
