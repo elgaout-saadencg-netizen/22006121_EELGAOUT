@@ -1,5 +1,6 @@
 Nom: ELGAOUT SAAD
-![Uploading PHOTO.png…]()
+
+<img width="1080" height="1080" alt="PHOTO" src="https://github.com/user-attachments/assets/dec2e2f9-efcc-4d7b-a73e-6e86b94166d6" />
 
 # Rapport Académique : Détection de Fraude dans les Réclamations d'Assurance Automobile
 
